@@ -4,3 +4,4 @@ __pycache__/
 *.pyc
 relay.db
 chroma_data/
+frontend/node_modules/
