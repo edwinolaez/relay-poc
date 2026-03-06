@@ -1,0 +1,6 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+relay.db
+chroma_data/
